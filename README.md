@@ -37,4 +37,8 @@ git push origin main                 manda cambios al repositorio
 
 python manage.py migrate
 
+python manage.py makemigrations
+
 python manage.py create superuser
+
+https://pypi.org/project/django-admin-tailwind/  agregamos formato al panel de administración
